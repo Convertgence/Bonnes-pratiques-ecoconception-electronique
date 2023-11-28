@@ -15,6 +15,3 @@ This task will focus on specifying the environmental criteria of the product (+s
 5. Monitor the product’s compliance with the established environmental criteria over its life cycle.
 
 6. Identify and implement measures to improve the product’s environmental performance, where applicable.
-
-
-Ceci est une demonstration
