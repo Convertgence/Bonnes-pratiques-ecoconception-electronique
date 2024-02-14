@@ -1,17 +1,19 @@
 # Specify the environmental criteria of the product (+service) over the entire life cycle
 
 ## Description:
-This task will focus on specifying the environmental criteria of the product (+service) over the entire life cycle. This includes assessing the environmental impacts of the product at each stage of the life cycle (e.g. production, use, maintenance, disposal), establishing environmental criteria to be met, and outlining the measures needed to meet the criteria. The task also includes identifying and assessing the compliance of the product with applicable environmental laws and regulations, and taking into account the related certification requirements. Finally, the task will involve developing a framework for environmental management, including the tracking and reporting of environmental performance metrics.
+Writing electronic equipment specifications is an essential step in the development process, and it should generally be undertaken early in the project. It is an integral part of the project requirements definition phase. Specifications cover the detailed features and functional requirements that the product must meet to meet user needs and expectations. Electronic system design specifications generally concern the following fields:
+- Mechanical, electrical, electronic and embedded software functionalities
+- Electronic performance (processing speed, storage capacity, signal quality, etc.)
+- Size and shape
+- Materials
+- Reliability
+- Sustainability
+- Compatibility (with other devices or software)
+- Energy consumption
+- Ease of use
+- Security (against dangers such as electric shock, fire, electromagnetic interference, cybersecurity breaches, etc.)
+  Cost (TCO approach, total cost of ownership)
+Among these previous requirements, some also concern ecodesign. Within the specifications document, it is wise to group all the ecodesign requirements in a dedicated section. To date, you can assess the place of ecodesign requirements among your specifications.  
 
-## Exemple:
-1. Assess the environmental impacts of the product at each stage of the life cycle, including production, use, maintenance, and disposal.
-
-2. Identify and assess the compliance of the product with applicable environmental laws and regulations.
-
-3. Establish environmental criteria to be met at each stage of the life cycle, and outline the measures needed to meet the criteria.
-
-4. Develop a framework for environmental management, including the tracking and reporting of environmental performance metrics.
-
-5. Monitor the product’s compliance with the established environmental criteria over its life cycle.
-
-6. Identify and implement measures to improve the product’s environmental performance, where applicable.
+## Example:
+A specification document for an electronic product can integrate ecodesign requirements over the entire life cycle: materials with limited environmental (carbon) footprint, recyclable materials, recycled materials, number of elementary parts, characteristics of manufacturing processes, emissions and resources during the use phase, lifespan, optimization of packaging, ease of repair, practicality of dismantling, environmental regulations, etc.
