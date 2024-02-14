@@ -12,8 +12,9 @@ Writing electronic equipment specifications is an essential step in the developm
 - Energy consumption
 - Ease of use
 - Security (against dangers such as electric shock, fire, electromagnetic interference, cybersecurity breaches, etc.)
-  Cost (TCO approach, total cost of ownership)
-Among these previous requirements, some also concern ecodesign. Within the specifications document, it is wise to group all the ecodesign requirements in a dedicated section. To date, you can assess the place of ecodesign requirements among your specifications.  
+- Cost (TCO approach, total cost of ownership)
+
+Among these previous requirements, some also concern **ecodesign criteria**. Within the specifications document, it is wise to group all the ecodesign requirements in a dedicated section. To date, you can assess the place of ecodesign requirements among your specifications.  
 
 ## Example:
-A specification document for an electronic product can integrate ecodesign requirements over the entire life cycle: materials with limited environmental (carbon) footprint, recyclable materials, recycled materials, number of elementary parts, characteristics of manufacturing processes, emissions and resources during the use phase, lifespan, optimization of packaging, ease of repair, practicality of dismantling, environmental regulations, etc.
+A specification document for an electronic product can integrate **ecodesign requirements** over the entire life cycle: materials with limited environmental (carbon) footprint, recyclable materials, recycled materials, number of elementary parts, characteristics of manufacturing processes, emissions and resources during the use phase, lifespan, optimization of packaging, ease of repair, practicality of dismantling, environmental regulations, etc.
