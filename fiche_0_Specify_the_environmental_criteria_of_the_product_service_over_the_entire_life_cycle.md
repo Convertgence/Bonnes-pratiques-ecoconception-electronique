@@ -1,5 +1,8 @@
 # Specify the environmental criteria of the product (+service) over the entire life cycle
 
+## Product hierarchy level
+Product top level
+
 ## Description:
 Writing electronic equipment specifications is an essential step in the development process, and it should generally be undertaken early in the project. It is an integral part of the project requirements definition phase. Specifications cover the detailed features and functional requirements that the product must meet to meet user needs and expectations. Electronic system design specifications generally concern the following fields:
 - Mechanical, electrical, electronic and embedded software functionalities
