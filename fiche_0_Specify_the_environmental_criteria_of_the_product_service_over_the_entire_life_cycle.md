@@ -1,6 +1,6 @@
 # Specify the environmental criteria of the product (+service) over the entire life cycle
 
-## Product hierarchy level
+## Product hierarchy level:
 Product top level
 
 ## Description:
@@ -19,5 +19,5 @@ Writing electronic equipment specifications is an essential step in the developm
 
 Among these previous requirements, some also concern **ecodesign criteria**. Within the specifications document, it is wise to group all the ecodesign requirements in a dedicated section. To date, you can assess the place of ecodesign requirements among your specifications.  
 
-## Exemple:
+## Example:
 A specification document for an electronic product can integrate **ecodesign requirements** over the entire life cycle: materials with limited environmental (carbon) footprint, recyclable materials, recycled materials, number of elementary parts, characteristics of manufacturing processes, emissions and resources during the use phase, lifespan, optimization of packaging, ease of repair, practicality of dismantling, environmental regulations, etc.
