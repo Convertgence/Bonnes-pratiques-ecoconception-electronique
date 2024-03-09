@@ -1,9 +1,12 @@
 # Minimize product installation accessories and consumables
 
+## Product hierarchy level:
+Product top level
+
 ## Description:
 This project is aimed at reducing the number of installation accessories and consumables associated with our product, in order to minimize installation costs and complexity for our customers. We will explore approaches such as modularization and simplification of installation instructions to reduce the number of components and consumables, while still ensuring that the product meets all safety and performance requirements.
 
-## Exemple:
+## Example:
 To reduce the number of installation accessories and consumables associated with our product, we will explore approaches such as:
 
 • Modularization of the product design, to reduce the number of components and consumables needed for installation.
