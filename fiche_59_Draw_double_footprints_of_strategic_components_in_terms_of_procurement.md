@@ -1,9 +1,12 @@
 # Draw double footprints of "strategic" components in terms of procurement
 
+## Product hierarchy level:
+Electronic sub-assembly
+
 ## Description:
 The objective of this task is to create double footprints of "strategic" components for the procurement process. Strategic components are those that are essential to the functioning of the electronic sub-assembly, and the double footprints should be used to identify the best suppliers and ensure that the components can be procured in a timely and cost-effective manner. The footprints will include a detailed analysis of the component's technical specifications, pricing, availability, reliability, and other relevant factors. The results of the analysis should be presented in an organized and easily accessible format.
 
-## Exemple:
+## Example:
 1. Technical Specifications:
 
 • Analyze component specifications in terms of size, power, speed, current, voltage, frequency, temperature, etc.
