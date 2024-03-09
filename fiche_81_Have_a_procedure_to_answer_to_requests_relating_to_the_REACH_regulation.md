@@ -1,9 +1,12 @@
 # Have a procedure to answer to requests relating to the REACH regulation
 
+## Product hierarchy level:
+Product top level
+
 ## Description:
 This procedure outlines the steps to be taken when responding to requests for information or assistance relating to the REACH regulation. It defines who is responsible for each step and provides guidance on the most appropriate response based on the type of request. The procedure includes guidance on how to obtain additional information or assistance if needed and how to keep records of requests. Finally, the procedure outlines what to do if a request is received from a third party.
 
-## Exemple:
+## Example:
 1. Receiving a Request:
 
 All requests for information or assistance relating to the REACH regulation should be directed to the designated contact for REACH-related matters. If the request is received from a third party, the contact should be informed so that the third party can be directed to the appropriate contact.
