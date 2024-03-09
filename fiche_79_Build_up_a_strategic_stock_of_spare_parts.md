@@ -1,9 +1,12 @@
 # Build up a strategic stock of spare parts
 
+## Product hierarchy level:
+Product top level
+
 ## Description:
 This project will involve creating a plan to strategically stock spare parts for products and services in order to ensure that repairs and maintenance can be done quickly and efficiently. This plan will include determining the number of parts to stock, the location of the parts, and the cost of stocking them. In addition, this project will involve assessing current stock levels and creating a system to monitor and replenish stock as needed. Finally, the project will also involve evaluating the cost-effectiveness of the plan and making adjustments as needed.
 
-## Exemple:
+## Example:
 Objectif :
 
 L’objectif de ce projet est de développer un plan stratégique de pièces de rechange pour les produits et services afin de s’assurer que les réparations et l’entretien peuvent être effectués rapidement et efficacement.
