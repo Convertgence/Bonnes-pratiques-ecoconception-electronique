@@ -1,9 +1,12 @@
 # Set up a repair procedure
 
+## Product hierarchy level:
+Product top level
+
 ## Description:
 Créer un processus de réparation qui permet aux clients de signaler et de réparer leurs produits. Ce processus doit couvrir les étapes suivantes : identification du produit, signalement du problème, diagnostic, recommandation de réparation, prise en charge des coûts, et réparation. Il devrait également inclure des options de service client et des méthodes de suivi.
 
-## Exemple:
+## Example:
 1. Identification du produit : Les clients doivent identifier le produit qu'ils souhaitent réparer. Cela peut inclure le nom du produit, le numéro de série, et tout autre information pertinente. 
 
 2. Signalement du problème : Les clients doivent signaler le problème et fournir des informations détaillées sur la nature du problème. 
