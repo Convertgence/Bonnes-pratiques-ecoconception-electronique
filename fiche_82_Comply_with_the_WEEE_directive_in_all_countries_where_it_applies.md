@@ -1,9 +1,12 @@
 # Comply with the WEEE directive in all countries where it applies
 
+## Product hierarchy level:
+Product top level
+
 ## Description:
 Ensure compliance with the European Union's Waste Electrical and Electronic Equipment (WEEE) Directive and any other applicable waste regulations in all countries where the directive applies. Research and implement best practices for reducing, reusing, and recycling electronic waste in all applicable regions. Monitor and report on the progress of compliance initiatives.
 
-## Exemple:
+## Example:
 1. Review the European Union's Waste Electrical and Electronic Equipment (WEEE) Directive and any other applicable waste regulations for all countries where the directive applies.
 
 2. Develop and implement a compliance program to ensure that all countries are in compliance with the WEEE directive and other relevant waste regulations.
